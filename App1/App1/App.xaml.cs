@@ -12,11 +12,7 @@ namespace App1
 		public App ()
 		{
 			InitializeComponent();
-
-
-
-       // Test Comment
-
+            
 			MainPage = new App1.MainPage();
 		}
 
