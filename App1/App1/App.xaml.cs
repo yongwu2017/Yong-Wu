@@ -13,6 +13,10 @@ namespace App1
 		{
 			InitializeComponent();
 
+
+
+       // Test Comment
+
 			MainPage = new App1.MainPage();
 		}
 
