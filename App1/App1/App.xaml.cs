@@ -12,7 +12,6 @@ namespace App1
 		public App ()
 		{
 			InitializeComponent();
-            //dgsdgsg
             
 			MainPage = new App1.MainPage();
 		}
